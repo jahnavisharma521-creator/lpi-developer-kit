@@ -214,5 +214,13 @@
     "max": 5,
     "pct": 100,
     "updated": "2026-04-16T20:13:33.121Z"
+  },
+  "level-3---yash-pundhir": {
+    "name": "Level-3 - Yash Pundhir",
+    "level": 3,
+    "score": 8,
+    "max": 11,
+    "pct": 73,
+    "updated": "2026-04-16T22:18:22.692Z"
   }
 }
