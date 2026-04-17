@@ -1,6 +1,9 @@
 {
   "name": "Jahnavi Sharma",
   "github": "https://github.com/jahnavisharma521-creator",
-  "track": "agent-builders",
-  "level": "level-1"
+  "program": "B.Tech CSE",
+  "campus": "Amity University",
+  "skills": ["C++ Programming", "Python", "Data Structure", "Machine Learning", ],
+  "interests": ["AI Agents", "Machine Learning", "Development"],
+  "my_twin": "I want to build an AI twin that can help me learn faster and automate my daily tasks."
 }
